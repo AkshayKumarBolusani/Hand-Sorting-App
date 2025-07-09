@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+pygame
+numpy
+pyttsx3
+PyQt5
+pillow
+tk
+pandas 

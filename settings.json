@@ -1,0 +1,6 @@
+{
+    "camera_on": true,
+    "sound_on": true,
+    "game_duration": 120,
+    "food_items_file": "food_items.json"
+}

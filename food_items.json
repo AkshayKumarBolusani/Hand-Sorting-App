@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Apple",
+        "image": "images/apple.png",
+        "type": "veg"
+    },
+    {
+        "name": "Carrot",
+        "image": "images/carrot.png",
+        "type": "veg"
+    },
+    {
+        "name": "Fish",
+        "image": "images/fish.png",
+        "type": "non-veg"
+    },
+    {
+        "name": "Broccoli",
+        "image": "images/broccoli.png",
+        "type": "veg"
+    },
+    {
+        "name": "Egg",
+        "image": "images/egg.png",
+        "type": "non-veg"
+    },
+    {
+        "name": "chicken",
+        "image": "images/chicken.png",
+        "type": "non-veg"
+    }
+]
